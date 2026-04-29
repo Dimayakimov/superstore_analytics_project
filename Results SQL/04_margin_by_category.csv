@@ -1,0 +1,4 @@
+Category,"ROUND(SUM(profit)/SUM(sales),2)"
+Technology,0.17
+Office Supplies,0.17
+Furniture,0.02
